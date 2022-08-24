@@ -1,0 +1,749 @@
+---
+title: "KEYS 2022: Open Science"
+author: "Greg Chism"
+date: June 06, 2022
+format: uaz-revealjs
+editor: visual
+bibliography: references.bib
+---
+
+## Favorite toy and why?
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/bear.png){width="447"}
+
+## Explore your creativity in KEYS
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/creativity.jpg){fig-align="left"}
+
+## Let's start with a story
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/story.jpg){width="700"}
+
+## Remember that we are storytellers
+
+![](_extensions/uaz/Underline.png)
+
+Epic of Gilgamesh: 2750 B.C.
+
+::: columns
+::: {.column width="50%"}
+![](_extensions/uaz/Gilgamesh1.jpg){width="393"}
+:::
+
+::: {.column width="50%"}
+![](_extensions/uaz/Gilgamesh2.png)
+:::
+:::
+
+## Start your own story
+
+![](_extensions/uaz/Underline.png)
+
+![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="1413"}
+
+------------------------------------------------------------------------
+
+![© [YERUN Office](https://yerun.eu/2018/05/yerun-statement-on-open-science/)](_extensions/uaz/OpenScience.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+## Why open science?
+
+![](_extensions/uaz/Underline.png)
+
+![© [Sally Ekanayaka](https://www.mysciencework.com/omniscience/open-science-open-access-far-apart)](_extensions/uaz/OpenSciCartoon.jpg){fig-align="left"}
+
+------------------------------------------------------------------------
+
+## Scientific progress
+
+![](_extensions/uaz/Underline.png)
+
+![Image credit: [Shuttershock](https://www.shutterstock.com/image-vector/business-risk-graph-144128689)](_extensions/uaz/ScienceProgress.jpg){fig-align="left"}
+
+------------------------------------------------------------------------
+
+## Prevent hidden or lost knowledge
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/HiddenLost.jpeg){width="1624"}
+
+------------------------------------------------------------------------
+
+## Data & intellectual commons
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/DataIntellect.jpeg){width="1106"}
+
+## Why KEYS - Your journey
+
+![](_extensions/uaz/Underline.png)
+
+Where are you starting?
+
+![](_extensions/uaz/TimelineStart.png)
+
+------------------------------------------------------------------------
+
+## Why KEYS - Your journey
+
+![](_extensions/uaz/Underline.png)
+
+Where are you starting?
+
+![](_extensions/uaz/Timeline1.png)
+
+------------------------------------------------------------------------
+
+## Why KEYS - Your journey
+
+![](_extensions/uaz/Underline.png)
+
+Where are you starting?
+
+![](_extensions/uaz/Timeline2.png)
+
+------------------------------------------------------------------------
+
+## Why KEYS - Your journey
+
+![](_extensions/uaz/Underline.png)
+
+Where are you starting?
+
+![](_extensions/uaz/Timeline3.png)
+
+------------------------------------------------------------------------
+
+## Why KEYS - Your journey
+
+![](_extensions/uaz/Underline.png)
+
+Where are you starting?
+
+![](_extensions/uaz/Timeline4.png)
+
+------------------------------------------------------------------------
+
+## Why KEYS - Your journey
+
+![](_extensions/uaz/Underline.png)
+
+Where are you starting?
+
+![](_extensions/uaz/Timeline5.png)
+
+------------------------------------------------------------------------
+
+## Why KEYS - Your journey
+
+![](_extensions/uaz/Underline.png)
+
+#### Open science
+
+![](_extensions/uaz/OpenSciTimeline1.png)
+
+#### Research project
+
+------------------------------------------------------------------------
+
+## Open Education - developing an idea
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: column
+![](_extensions/uaz/OpenEd.png){width="393"}
+:::
+
+::: {.column .incremental width="50%"}
+### Why does this matter?
+
+-   Equity in education
+-   Learn more and faster
+-   Better education = better world
+:::
+:::
+
+## Return to your story - Open Education
+
+![](_extensions/uaz/Underline.png)
+
+![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="1413"}
+
+------------------------------------------------------------------------
+
+## Why KEYS - Your journey
+
+![](_extensions/uaz/Underline.png)
+
+### Open science
+
+![](_extensions/uaz/OpenSciTimeline2.png)
+
+### Research project
+
+------------------------------------------------------------------------
+
+## Open Methods - designing a study
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: column
+![](_extensions/uaz/OpenMethods.jpg)
+:::
+
+::: {.column .incremental width="50%"}
+### What might you need?
+
+-   Past studies
+-   Past data
+-   **Open policy**
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Is there a reproducibility crisis?
+
+![](_extensions/uaz/Underline.png)
+
+![Baker 2016, *Nature*](_extensions/uaz/Reprod2.jpg){fig-align="left"}
+
+------------------------------------------------------------------------
+
+## F.A.I.R. data principles
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/FAIR.jpg)
+
+------------------------------------------------------------------------
+
+## Data best practices: metadata
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/metadata1.png)
+
+------------------------------------------------------------------------
+
+## Data best practices: metadata
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/Metadata2.png){width="1514"}
+
+------------------------------------------------------------------------
+
+## Containers: a tool for reproducibility
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/Containers.png)
+
+------------------------------------------------------------------------
+
+## Why KEYS - Your journey
+
+![](_extensions/uaz/Underline.png)
+
+### Open science
+
+![](_extensions/uaz/OpenSciTimeline2.png)
+
+### Research project
+
+------------------------------------------------------------------------
+
+## Return to your story - Open Methods
+
+![](_extensions/uaz/Underline.png)
+
+![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="1413"}
+
+------------------------------------------------------------------------
+
+## Why KEYS? - Your journey
+
+![](_extensions/uaz/Underline.png)
+
+### Open science
+
+![](_extensions/uaz/OpenSciTimeline3.png)
+
+### Research project
+
+------------------------------------------------------------------------
+
+## Open Data - managing data
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: column
+![](_extensions/uaz/DataManage.jpg)
+:::
+
+::: {.column .incremental width="50%"}
+### What should we consider?
+
+-   F.A.I.R.
+-   C.A.R.E.
+-   Best practices
+:::
+:::
+
+------------------------------------------------------------------------
+
+## F.A.I.R. data principles
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/FAIR.jpg)
+
+## C.A.R.E. data principles
+
+![](_extensions/uaz/Underline.png)
+
+![Image credit: [GIDA](https://www.gida-global.org/care)](_extensions/uaz/CARE.png)
+
+------------------------------------------------------------------------
+
+## Data management
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: column
+![Image credit: [Data Entry Outsourced](https://www.dataentryoutsourced.com/blog/data-management-best-practices/)](_extensions/uaz/DataManagement.jpg)
+:::
+
+::: {.column .incremental width="50%"}
+### Why data management?
+
+-   Save time
+-   Keeps data safe
+-   Easier collaborations
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Data best practices: data structure
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/DataStruct.png)
+
+### Any problems?
+
+------------------------------------------------------------------------
+
+## Data best practices: data structure
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/DataStruct.png)
+
+::: incremental
+-   Name: personal information
+-   Height: Poor units, and "NA"
+-   Age: No context
+:::
+
+------------------------------------------------------------------------
+
+## Data best practices: data structure
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/DataStruct2.png)
+
+------------------------------------------------------------------------
+
+## Data storage
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: column
+![](_extensions/uaz/DataStore.png)
+:::
+
+::: {.column .incremental width="50%"}
+### What are some storage options?
+
+-   Hard drives (internal)
+-   Hard drives (external)
+-   Cloud storage
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Data best practices: data storage
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/BestPractice.png)
+
+------------------------------------------------------------------------
+
+## Why KEYS? - Your journey
+
+![](_extensions/uaz/Underline.png)
+
+### Open science
+
+![](_extensions/uaz/OpenSciTimeline3.png)
+
+### Research project
+
+------------------------------------------------------------------------
+
+## Return to your story - Open Data
+
+![](_extensions/uaz/Underline.png)
+
+![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="1413"}
+
+------------------------------------------------------------------------
+
+## Why KEYS? - Your Journey
+
+![](_extensions/uaz/Underline.png)
+
+### Open science
+
+![](_extensions/uaz/OpenSciTimeline4.png)
+
+### Research project
+
+------------------------------------------------------------------------
+
+## Statistics
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: column
+![Image credit: [Grasple](https://www.grasple.com/statistics)](_extensions/uaz/Stats.png)
+:::
+
+::: {.column .incremental width="50%"}
+### Why do we need statistics?
+
+-   Proper methods
+-   Correct analysis
+-   Effectively present results
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Case #1
+
+![](_extensions/uaz/Underline.png)
+
+#### Question: Do dogs and cats love us differently?
+
+![](_extensions/uaz/MilesCat.png)
+
+#### What do we know?
+
+N = 20 dogs, 20 cats
+
+Comparing Oxytocin - % increase
+
+------------------------------------------------------------------------
+
+## Case #1
+
+![](_extensions/uaz/Underline.png)
+
+#### Question: Do dogs and cats love us differently?
+
+::: columns
+::: column
+![](_extensions/uaz/MilesCatCol1.png)
+:::
+
+::: column
+```{r echo = FALSE}
+pacman::p_load(
+  ggthemes, 
+               ggpubr, 
+               tidyverse)
+
+theme_set(theme_pubr(base_size = 32))
+theme_update(axis.text.x = element_text(family = "Helvetica"),
+             axis.text.y = element_blank(),
+             axis.title.x = element_blank(),
+             axis.title.y = element_text(family = "Helvetica"),
+             axis.ticks = element_blank(),
+             legend.position = "none")
+
+Group <- c("Dogs", "Cats")
+
+Data <- c(65, 25)
+
+df <- as.data.frame(cbind(Group, Data))
+
+df |>
+ggplot(aes(x = Group, y = Data, fill = Group)) +
+  geom_col(width = 0.33) +
+  ylab("Oxytocin increase (%)") +
+  scale_fill_manual(values = c("#0072B2", "#D55E00"))
+  
+```
+:::
+:::
+
+#### What do we know?
+
+N = 20 dogs, 20 cats
+
+Comparing Oxytocin - % increase
+
+------------------------------------------------------------------------
+
+## Case #2
+
+![](_extensions/uaz/Underline.png)
+
+#### Question: Do dogs and cats love us differently?
+
+![](_extensions/uaz/MilesCat2.png){width="834"}
+
+#### What do we know?
+
+N = 20 dog and 20 cat owners
+
+Ask which loves the owner more: dog or cat
+
+Comparing % that say dog or cat
+
+------------------------------------------------------------------------
+
+## Case #2
+
+![](_extensions/uaz/Underline.png)
+
+#### Question: Do dogs and cats love us differently?
+
+::: columns
+::: column
+![](_extensions/uaz/MilesCatCol2.png)
+:::
+
+::: column
+```{r echo = FALSE}
+pacman::p_load(
+  ggthemes, 
+               ggpubr, 
+               tidyverse)
+
+theme_set(theme_pubr(base_size = 32))
+theme_update(axis.text.x = element_text(family = "Helvetica"),
+             axis.text.y = element_blank(),
+             axis.title.x = element_blank(),
+             axis.title.y = element_text(family = "Helvetica"),
+             axis.ticks = element_blank(),
+             legend.position = "none")
+Group1 <- c("Dogs", "Cats")
+
+Data1 <- c(75, 10)
+
+df1 <- as.data.frame(cbind(Group1, Data1))
+
+df1 |>
+ggplot(aes(x = fct_rev(Group1), y = Data1, fill = fct_rev(Group1))) +
+  geom_col(width = 0.33) +
+  ylab("% that chose each") +
+  scale_fill_manual(values = c("#D55E00", "#0072B2"))
+  
+```
+:::
+:::
+
+#### What do we know?
+
+N = 20 dog and 20 cat owners
+
+Ask which loves the owner more: dog or cat
+
+Comparing % that say dog or cat
+
+------------------------------------------------------------------------
+
+## Do we treat both cases equally?
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: column
+![](_extensions/uaz/MilesCat.png)
+
+#### Case #1
+
+N = 20 dogs, 20 cats
+
+Comparing Oxytocin - % increase
+:::
+
+::: column
+![](_extensions/uaz/MilesCatCol2.png)
+
+#### Case #2
+
+N = 20 dog and 20 cat owners
+
+Ask which loves the owner more: dog or cat
+
+Comparing % that say dog or cat
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Do we treat both cases equally?
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: column
+#### OBJECTIVE
+
+![](_extensions/uaz/MilesCat.png)
+
+#### Case #1
+
+N = 20 dogs, 20 cats
+
+Comparing Oxytocin - % increase
+:::
+
+::: column
+#### SUBJECTIVE
+
+![](_extensions/uaz/MilesCatCol2.png)
+
+#### Case #2
+
+N = 20 dog and 20 cat owners
+
+Ask which loves the owner more: dog or cat
+
+Comparing % that say dog or cat
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Why KEYS? - Your Journey
+
+![](_extensions/uaz/Underline.png)
+
+### Open science
+
+![](_extensions/uaz/OpenSciTimeline4.png)
+
+### Research project
+
+------------------------------------------------------------------------
+
+## Return to your story - Interpretation
+
+![](_extensions/uaz/Underline.png)
+
+![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="1413"}
+
+------------------------------------------------------------------------
+
+## Why KEYS? - Your Journey
+
+![](_extensions/uaz/Underline.png)
+
+### Open science
+
+![](_extensions/uaz/OpenSciTimeline5.png)
+
+### Research project
+
+------------------------------------------------------------------------
+
+## Open Peer-Review: publish & share
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/PeerReview.png)
+
+------------------------------------------------------------------------
+
+## Open Peer-Review: publish & share
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: column
+![](_extensions/uaz/PeerReview2.png)
+:::
+
+::: {.column .incremental width="50%"}
+### Why does this matter?
+
+-   Faster
+-   Earlier access
+-   Open access
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Open Access: publish & share
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: column
+![](_extensions/uaz/OpenAccess.png){width="350"}
+:::
+
+::: {.column .incremental width="50%"}
+### Why does this matter?
+
+-   Shared knowledge
+-   F.A.I.R. & C.A.R.E.
+-   Science for [**ALL**]{.underline}
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Return to your story - Open Access
+
+![](_extensions/uaz/Underline.png)
+
+![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="1413"}
+
+------------------------------------------------------------------------
+
+## Why KEYS? - Your Journey
+
+![](_extensions/uaz/Underline.png)
+
+### Open science
+
+![](_extensions/uaz/OpenSciTimelineFull.png)
+
+### Research project
