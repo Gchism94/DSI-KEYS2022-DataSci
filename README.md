@@ -7,6 +7,8 @@ The Quarto presentations in this repository are inspired by powerpoint materials
 
 
 ## Disclaimer
-Images used in the presentations are either creative commons, available for free with subscriptions owned by the author, or copyrighted. All copyrighted images were given the appropriate accredation. The author will immediately remove images which useage violates copyrights. 
+Images used in the presentations are either creative commons, available for free with subscriptions owned by the author, or copyrighted. All copyrighted images were given the appropriate accredation. The author will immediately remove images which useage violates copyrights.
+
+The machine learning with candy activity was inspired by the lesson: https://huppenkothen.org/machine-learning-tutorial/ 
 
 The original Quarto template code modified here is licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) and no attribution is required. 
