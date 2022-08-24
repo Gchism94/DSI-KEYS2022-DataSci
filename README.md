@@ -3,7 +3,9 @@
 
 The Quarto presentations in this repository are inspired by powerpoint materials used by the author for the Data Science Institute KEYS internship pedagogy. 
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![DOI](https://zenodo.org/badge/528523229.svg)](https://zenodo.org/badge/latestdoi/528523229) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+To cite, please use: 
 
 
 ## Disclaimer
