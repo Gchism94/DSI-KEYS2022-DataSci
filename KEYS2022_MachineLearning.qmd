@@ -1,0 +1,225 @@
+---
+title: "KEYS 2022: Machine Learning"
+author: "Greg Chism"
+date: June 07, 2022
+format: uaz-revealjs
+editor: visual
+bibliography: references.bib
+---
+
+## What is machine learning?
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/MachineLearn1.jpg){fig-align="left" width="709"}
+
+## What is machine learning?
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/MachineLearn2.png){fig-align="left"}
+
+## Why machine learning?
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/MachineLearn3.png){fig-align="left"}
+
+## What is machine learning?
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: {.column width="50%"}
+![](_extensions/uaz/MachineLearn4.jpg){fig-align="left"}
+:::
+
+::: {.column .incremental width="50%"}
+#### Types
+
+-   Unsupervised
+-   Supervised
+-   Reinforced
+:::
+:::
+
+## What is machine learning?
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: {.column width="50%"}
+![](_extensions/uaz/MachineLearn4.jpg){fig-align="left"}
+:::
+
+::: {.column width="50%"}
+#### Types
+
+-   Unsupervised
+-   **Supervised**
+-   Reinforced
+:::
+:::
+
+## Recommendation algorithms
+
+![](_extensions/uaz/Underline.png)
+
+### Song recommendation
+
+![](_extensions/uaz/SongRecommend.png){fig-align="left" width="2869"}
+
+------------------------------------------------------------------------
+
+## Recommendation algorithms
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: {.column width="50%"}
+### Song recommendation
+
+![](_extensions/uaz/SongRecommend.png){fig-align="left" width="1640"}
+:::
+
+::: {.column .incremental width="50%"}
+#### What are they?
+
+-   Collect user data
+-   Find similar products
+-   Recommend something
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Recommendation algorithms
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: {.column width="50%"}
+### Song recommendation
+
+![](_extensions/uaz/SongRecommend.png){fig-align="left" width="1640"}
+:::
+
+::: {.column width="50%"}
+#### Try one out!
+
+https://www.gnoosic.com/
+:::
+:::
+
+## Recommendation algorithms
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: {.column width="50%"}
+### Song recommendation
+
+![Taken from: [Van den Oord, A., et al., 2013](https://proceedings.neurips.cc/paper/2013/hash/b3ba8f1bee1238a2f37603d90b58898d-Abstract.html)](_extensions/uaz/MusicCluster.png){fig-align="left"}
+:::
+
+::: {.column .incremental width="50%"}
+### So, how does this work?
+
+-   User listens to music
+-   Algorithm clusters music by characteristics
+-   Recommend new song choices
+:::
+:::
+
+## Where does machine learning fit?
+
+![](_extensions/uaz/Underline.png)
+
+#### Open science
+
+![](_extensions/uaz/OpenSciTimelineFull.png)
+
+#### Research project
+
+------------------------------------------------------------------------
+
+## What can go wrong?
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/MachineBias.jpg)
+
+## Data ethics: how can we do better?
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: {.column width="50%"}
+![](_extensions/uaz/DataEthics.jpg){width="719"}
+:::
+
+::: {.column .incremental width="50%"}
+-   Test for unintended bias
+-   Fair services to all
+-   Clear accountability
+-   Safe data handling
+-   Education
+-   Law compliance
+-   Future proofing
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Classifying candy!
+
+![](_extensions/uaz/Underline.png)
+
+![](_extensions/uaz/Candy.jpg){fig-align="left"}
+
+## Classifying candy!
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: {.column width="50%"}
+![](_extensions/uaz/Candy.jpg){fig-align="left"}
+:::
+
+::: {.column .incremental width="50%"}
+![](_extensions/uaz/CandyTable.png){fig-align="left"}
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Classifying candy!
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: {.column width="50%"}
+![](_extensions/uaz/CandyCluster.png){fig-align="left"}
+:::
+
+::: {.column .incremental width="50%"}
+![](_extensions/uaz/NewCandyText.png){fig-align="left"}
+:::
+:::
+
+## Classifying candy!
+
+![](_extensions/uaz/Underline.png)
+
+::: columns
+::: {.column width="50%"}
+![](_extensions/uaz/Axis.png){fig-align="left"}
+:::
+
+::: {.column .incremental width="50%"}
+![](_extensions/uaz/Candy.jpg){fig-align="left"}
+
+#### Your turn!
+:::
+:::
+

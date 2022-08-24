@@ -1,0 +1,13 @@
+name: keys2022_opensci_dsi2
+title: KEYS2022_OpenSci_DSI
+username: gchism
+account: gchism
+server: viz.datascience.arizona.edu
+hostUrl: https://viz.datascience.arizona.edu/__api__
+appId: 94
+bundleId: 504
+url: https://viz.datascience.arizona.edu:443/content/701d92f9-7848-4c6f-9e19-dd6919096d20/
+when: 1661367646.88722
+lastSyncTime: 1661367646.88725
+asMultiple: FALSE
+asStatic: TRUE

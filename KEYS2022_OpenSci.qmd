@@ -45,7 +45,7 @@ Epic of Gilgamesh: 2750 B.C.
 
 ![](_extensions/uaz/Underline.png)
 
-![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="1413"}
+![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="888"}
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ Epic of Gilgamesh: 2750 B.C.
 
 ![](_extensions/uaz/Underline.png)
 
-![Image credit: [Shuttershock](https://www.shutterstock.com/image-vector/business-risk-graph-144128689)](_extensions/uaz/ScienceProgress.jpg){fig-align="left"}
+![Image credit: [Shuttershock](https://www.shutterstock.com/image-vector/business-risk-graph-144128689)](_extensions/uaz/ScienceProgress.jpg){fig-align="left" width="1273"}
 
 ------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ Epic of Gilgamesh: 2750 B.C.
 
 ![](_extensions/uaz/Underline.png)
 
-![](_extensions/uaz/HiddenLost.jpeg){width="1624"}
+![](_extensions/uaz/HiddenLost.jpeg){width="707"}
 
 ------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ Epic of Gilgamesh: 2750 B.C.
 
 ![](_extensions/uaz/Underline.png)
 
-![](_extensions/uaz/DataIntellect.jpeg){width="1106"}
+![](_extensions/uaz/DataIntellect.jpeg){width="792"}
 
 ## Why KEYS - Your journey
 
@@ -177,7 +177,7 @@ Where are you starting?
 
 ![](_extensions/uaz/Underline.png)
 
-![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="1413"}
+![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="710"}
 
 ------------------------------------------------------------------------
 
@@ -185,11 +185,11 @@ Where are you starting?
 
 ![](_extensions/uaz/Underline.png)
 
-### Open science
+#### Open science
 
 ![](_extensions/uaz/OpenSciTimeline2.png)
 
-### Research project
+#### Research project
 
 ------------------------------------------------------------------------
 
@@ -217,7 +217,7 @@ Where are you starting?
 
 ![](_extensions/uaz/Underline.png)
 
-![Baker 2016, *Nature*](_extensions/uaz/Reprod2.jpg){fig-align="left"}
+![Baker 2016, *Nature*](_extensions/uaz/Reprod2.jpg){fig-align="left" width="852"}
 
 ------------------------------------------------------------------------
 
@@ -233,15 +233,7 @@ Where are you starting?
 
 ![](_extensions/uaz/Underline.png)
 
-![](_extensions/uaz/metadata1.png)
-
-------------------------------------------------------------------------
-
-## Data best practices: metadata
-
-![](_extensions/uaz/Underline.png)
-
-![](_extensions/uaz/Metadata2.png){width="1514"}
+![](_extensions/uaz/Metadata2.png){width="728"}
 
 ------------------------------------------------------------------------
 
@@ -249,7 +241,7 @@ Where are you starting?
 
 ![](_extensions/uaz/Underline.png)
 
-![](_extensions/uaz/Containers.png)
+![](_extensions/uaz/Containers.png){width="799"}
 
 ------------------------------------------------------------------------
 
@@ -257,11 +249,11 @@ Where are you starting?
 
 ![](_extensions/uaz/Underline.png)
 
-### Open science
+#### Open science
 
 ![](_extensions/uaz/OpenSciTimeline2.png)
 
-### Research project
+#### Research project
 
 ------------------------------------------------------------------------
 
@@ -269,7 +261,7 @@ Where are you starting?
 
 ![](_extensions/uaz/Underline.png)
 
-![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="1413"}
+![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="710"}
 
 ------------------------------------------------------------------------
 
@@ -277,11 +269,11 @@ Where are you starting?
 
 ![](_extensions/uaz/Underline.png)
 
-### Open science
+#### Open science
 
 ![](_extensions/uaz/OpenSciTimeline3.png)
 
-### Research project
+#### Research project
 
 ------------------------------------------------------------------------
 
@@ -315,7 +307,7 @@ Where are you starting?
 
 ![](_extensions/uaz/Underline.png)
 
-![Image credit: [GIDA](https://www.gida-global.org/care)](_extensions/uaz/CARE.png)
+![Image credit: [GIDA](https://www.gida-global.org/care)](_extensions/uaz/CARE.png){fig-align="left"}
 
 ------------------------------------------------------------------------
 
@@ -325,7 +317,7 @@ Where are you starting?
 
 ::: columns
 ::: column
-![Image credit: [Data Entry Outsourced](https://www.dataentryoutsourced.com/blog/data-management-best-practices/)](_extensions/uaz/DataManagement.jpg)
+![Image credit: [Data Entry Outsourced](https://www.dataentryoutsourced.com/blog/data-management-best-practices/)](_extensions/uaz/DataManagement.jpg){fig-align="left"}
 :::
 
 ::: {.column .incremental width="50%"}
@@ -341,9 +333,7 @@ Where are you starting?
 
 ## Data best practices: data structure
 
-![](_extensions/uaz/Underline.png)
-
-![](_extensions/uaz/DataStruct.png)
+![](_extensions/uaz/DataStruct.png){width="1207"}
 
 ### Any problems?
 
@@ -351,9 +341,7 @@ Where are you starting?
 
 ## Data best practices: data structure
 
-![](_extensions/uaz/Underline.png)
-
-![](_extensions/uaz/DataStruct.png)
+![](_extensions/uaz/DataStruct.png){width="1207"}
 
 ::: incremental
 -   Name: personal information
@@ -365,9 +353,7 @@ Where are you starting?
 
 ## Data best practices: data structure
 
-![](_extensions/uaz/Underline.png)
-
-![](_extensions/uaz/DataStruct2.png)
+![](_extensions/uaz/DataStruct2.png){width="1207"}
 
 ------------------------------------------------------------------------
 
@@ -377,7 +363,7 @@ Where are you starting?
 
 ::: columns
 ::: column
-![](_extensions/uaz/DataStore.png)
+![](_extensions/uaz/DataStore.png){width="354"}
 :::
 
 ::: {.column .incremental width="50%"}
@@ -403,11 +389,11 @@ Where are you starting?
 
 ![](_extensions/uaz/Underline.png)
 
-### Open science
+#### Open science
 
 ![](_extensions/uaz/OpenSciTimeline3.png)
 
-### Research project
+#### Research project
 
 ------------------------------------------------------------------------
 
@@ -415,7 +401,7 @@ Where are you starting?
 
 ![](_extensions/uaz/Underline.png)
 
-![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="1413"}
+![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="888"}
 
 ------------------------------------------------------------------------
 
@@ -423,11 +409,11 @@ Where are you starting?
 
 ![](_extensions/uaz/Underline.png)
 
-### Open science
+#### Open science
 
 ![](_extensions/uaz/OpenSciTimeline4.png)
 
-### Research project
+#### Research project
 
 ------------------------------------------------------------------------
 
@@ -437,7 +423,7 @@ Where are you starting?
 
 ::: columns
 ::: column
-![Image credit: [Grasple](https://www.grasple.com/statistics)](_extensions/uaz/Stats.png)
+![Image credit: [Grasple](https://www.grasple.com/statistics)](_extensions/uaz/Stats.png){width="454"}
 :::
 
 ::: {.column .incremental width="50%"}
@@ -457,13 +443,7 @@ Where are you starting?
 
 #### Question: Do dogs and cats love us differently?
 
-![](_extensions/uaz/MilesCat.png)
-
-#### What do we know?
-
-N = 20 dogs, 20 cats
-
-Comparing Oxytocin - % increase
+![](_extensions/uaz/MilesCat.png){width="830"}
 
 ------------------------------------------------------------------------
 
@@ -525,14 +505,6 @@ Comparing Oxytocin - % increase
 
 ![](_extensions/uaz/MilesCat2.png){width="834"}
 
-#### What do we know?
-
-N = 20 dog and 20 cat owners
-
-Ask which loves the owner more: dog or cat
-
-Comparing % that say dog or cat
-
 ------------------------------------------------------------------------
 
 ## Case #2
@@ -580,9 +552,7 @@ ggplot(aes(x = fct_rev(Group1), y = Data1, fill = fct_rev(Group1))) +
 
 N = 20 dog and 20 cat owners
 
-Ask which loves the owner more: dog or cat
-
-Comparing % that say dog or cat
+Comparing % of owners that say dog or cat
 
 ------------------------------------------------------------------------
 
@@ -592,25 +562,23 @@ Comparing % that say dog or cat
 
 ::: columns
 ::: column
-![](_extensions/uaz/MilesCat.png)
+![](_extensions/uaz/MilesCat.png){width="776"}
 
 #### Case #1
 
-N = 20 dogs, 20 cats
+20 dogs, 20 cats
 
-Comparing Oxytocin - % increase
+Oxytocin % increase
 :::
 
 ::: column
-![](_extensions/uaz/MilesCatCol2.png)
+![](_extensions/uaz/MilesCat2.png){width="778"}
 
 #### Case #2
 
-N = 20 dog and 20 cat owners
+20 dog & 20 cat owners
 
-Ask which loves the owner more: dog or cat
-
-Comparing % that say dog or cat
+\% that say dog or cat
 :::
 :::
 
@@ -624,27 +592,25 @@ Comparing % that say dog or cat
 ::: column
 #### OBJECTIVE
 
-![](_extensions/uaz/MilesCat.png)
+![](_extensions/uaz/MilesCat.png){width="776"}
 
 #### Case #1
 
 N = 20 dogs, 20 cats
 
-Comparing Oxytocin - % increase
+Oxytocin % increase
 :::
 
 ::: column
 #### SUBJECTIVE
 
-![](_extensions/uaz/MilesCatCol2.png)
+![](_extensions/uaz/MilesCat2.png){width="778"}
 
 #### Case #2
 
-N = 20 dog and 20 cat owners
+20 dog & 20 cat owners
 
-Ask which loves the owner more: dog or cat
-
-Comparing % that say dog or cat
+\% that say dog or cat
 :::
 :::
 
@@ -654,11 +620,11 @@ Comparing % that say dog or cat
 
 ![](_extensions/uaz/Underline.png)
 
-### Open science
+#### Open science
 
 ![](_extensions/uaz/OpenSciTimeline4.png)
 
-### Research project
+#### Research project
 
 ------------------------------------------------------------------------
 
@@ -666,7 +632,7 @@ Comparing % that say dog or cat
 
 ![](_extensions/uaz/Underline.png)
 
-![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="1413"}
+![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="711"}
 
 ------------------------------------------------------------------------
 
@@ -674,11 +640,11 @@ Comparing % that say dog or cat
 
 ![](_extensions/uaz/Underline.png)
 
-### Open science
+#### Open science
 
 ![](_extensions/uaz/OpenSciTimeline5.png)
 
-### Research project
+#### Research project
 
 ------------------------------------------------------------------------
 
@@ -686,7 +652,7 @@ Comparing % that say dog or cat
 
 ![](_extensions/uaz/Underline.png)
 
-![](_extensions/uaz/PeerReview.png)
+![](_extensions/uaz/PeerReview.png){width="585"}
 
 ------------------------------------------------------------------------
 
@@ -716,7 +682,7 @@ Comparing % that say dog or cat
 
 ::: columns
 ::: column
-![](_extensions/uaz/OpenAccess.png){width="350"}
+![](_extensions/uaz/OpenAccess.png){width="288"}
 :::
 
 ::: {.column .incremental width="50%"}
@@ -734,7 +700,7 @@ Comparing % that say dog or cat
 
 ![](_extensions/uaz/Underline.png)
 
-![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="1413"}
+![Image credit: Eric Lyons](_extensions/uaz/EricSpider.png){fig-align="left" width="711"}
 
 ------------------------------------------------------------------------
 
@@ -742,8 +708,8 @@ Comparing % that say dog or cat
 
 ![](_extensions/uaz/Underline.png)
 
-### Open science
+#### Open science
 
 ![](_extensions/uaz/OpenSciTimelineFull.png)
 
-### Research project
+#### Research project

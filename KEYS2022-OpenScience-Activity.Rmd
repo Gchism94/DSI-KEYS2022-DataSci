@@ -1,0 +1,181 @@
+---
+title: "KEYS 2022 Open Science Activity"
+author: "Greg Chism"
+date: "2022-June-07"
+output: word_document
+---
+
+# Starting a story: KEYS research question activity
+
+## Description:
+
+Story telling is deeply rooted in our history. The goal of this activity is to use storytelling to connect Open Science concepts to a research question that each KEYS students form and develop. (90 mins)
+
+------------------------------------------------------------------------
+
+## Objectives:
+
+1.  Students will produce a research question and will relate Open Science concepts to each stage of the workflow from question to conclusion.
+
+2.  Students will work with peers to test their ability to receive feedback and utilize Open Science best practices in their workflows.
+
+3.  Students will leave with the confidence to ask questions about Open Science best practices during their internships.
+
+------------------------------------------------------------------------
+
+## Lesson plan:
+
+Students will create and refine a research question during activity breaks
+
+### Open science
+
+![](_extensions/uaz/OpenScienceTimelineFull.1.png)
+
+### Research project
+
+------------------------------------------------------------------------
+
+## **Start their story / developing an idea (15 mins)** 
+
+-   Students will come up with a research question to start their story (10 mins)  
+
+```{=html}
+<!-- -->
+```
+-   Going outside to the BSRL courtyard (if remote via Zoom outside of their home), or by examining the provided image (flower with a bumblebee and crab spider).  
+
+-   Discussing question with peers, during and/or after forming a question (encourages feedback & collaboration). 
+
+-   Alternatively, a research question can be provided to students without one.  
+
+-   Determining the answer to their research question.  
+
+```{=html}
+<!-- -->
+```
+-   Students will consider what information they might need to answer their question (5 mins)  
+
+```{=html}
+<!-- -->
+```
+-   Understanding the importance of open education.  
+
+------------------------------------------------------------------------
+
+## **Constructing the narrative / designing a study (20 mins)** 
+
+-   Students will design a hypothetical experiment to answer their research question (10 mins)  
+
+```{=html}
+<!-- -->
+```
+-   Asking what data would be required to answer their research question.  
+
+```{=html}
+<!-- -->
+```
+-   Determining how the data will need to be collected.  
+
+-   Discussing this research methodology with peers.  
+
+-   KEYS helpers will be available to help with methods.  
+
+-   Write six lines of hypothetical data.  
+
+```{=html}
+<!-- -->
+```
+-   Students will apply the F.A.I.R principles throughout, starting here (10 mins) 
+
+```{=html}
+<!-- -->
+```
+-   **Metadata**: ensuring that they or a peer will have the information needed to reproduce steps throughout the research study.  
+
+-   **F**indable: describing where the data would be and how someone would find it -- write the metadata.  
+
+-   **A**ccessible: describing how metadata will be accessed and by whom.  
+
+-   **I**nteroperable: describing how the metadata is usable by anyone to reproduce their study.  
+
+-   **R**eusable: ensuring that the metadata is thorough enough for a peer to reproduce the work (see next section).  
+
+ 
+
+## **Conflict points to overcome / managing data (20 mins)** 
+
+-   Students will give their metadata to a peer to test the successful application of the F.A.I.R. principles. (10 mins)  
+
+```{=html}
+<!-- -->
+```
+-   In-person: either going back outside or viewing the provided flower image as appropriate.  
+
+-   Remote: providing enough metadata to either go to a hypothetical field site or view the provided flower image.  
+
+```{=html}
+<!-- -->
+```
+-    Students will revise data structure and metadata as appropriate.  (10 mins) 
+
+```{=html}
+<!-- -->
+```
+-   Discussing the peer\'s success in understanding the metadata.  
+
+-   Revising metadata with peer.  
+
+ 
+
+## **First test for the student / interpretation (15 mins)** 
+
+-   Students will understand objective vs. subjective data  
+
+```{=html}
+<!-- -->
+```
+-   Determining whether testing their data is as viable as an alternative. (10-15 mins) 
+
+```{=html}
+<!-- -->
+```
+-   If their data is objective, what is the subjective version? 
+
+-   If their data is subjective, what is the objective version?   
+
+ 
+
+## **Final test for the student / publish & share (20 mins)** 
+
+-   OPTION 1: Students will peer reviewing each other\'s work. (10 mins) 
+
+```{=html}
+<!-- -->
+```
+-   Thinking about what would improve interpretations.   
+
+```{=html}
+<!-- -->
+```
+-   OPTION 2: Students will discuss open access (the whole picture -- 10 mins) 
+
+```{=html}
+<!-- -->
+```
+-   Considering where each part of their research goes 
+
+```{=html}
+<!-- -->
+```
+-   Examples: 
+
+```{=html}
+<!-- -->
+```
+-   GitHub 
+
+-   Dryad 
+
+-   Jupyter notebooks 
+
+-   R Markdown & R scripts 
