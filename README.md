@@ -6,6 +6,7 @@ The Quarto presentations in this repository are inspired by powerpoint materials
 [![DOI](https://zenodo.org/badge/528523229.svg)](https://zenodo.org/badge/latestdoi/528523229) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 To cite, please use: 
+>Greg T. Chism. (2022). Gchism94/DSI-KEYS2022-DataSci: Data7 KEYS 2022 Internship Data Science Materials (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.7020648
 
 
 ## Disclaimer
